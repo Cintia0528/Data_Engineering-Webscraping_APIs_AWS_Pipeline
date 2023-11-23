@@ -15,7 +15,7 @@ GANS is a new e-scooter rental company aiming to operate in cities across German
 
 ## Deliverables
 Overview article on **Medium** found [here](https://medium.com/@ubp0528/what-goes-into-e-scooter-deployment-a-data-engineering-story-390a2dbcb077) that succintly summarizes the findings and the process.
-**Python code** notebooks are found [here]()
+**Python code** with the clean notebooks are found [here](), and the code for creating a database in **SQL** is found [here](). 
 
 ## Skills & Tools
 1. Webscraping
@@ -23,3 +23,10 @@ Overview article on **Medium** found [here](https://medium.com/@ubp0528/what-goe
 3. MySQL
 4. Jupyter Notebooks
 5. AWS Lambda
+
+## Furher Considerations (limited due to the time allocated for the project)
+1. Consideration of budget airlines, define and select budget airlines
+2. Research cities that are not major cities ex.: Berlin, but get a lot of tourists for some specific attraction
+3. Take into consideration seasonality or some special event ex.: Octoberfest or Rock Im Ring.
+4. Incentivize e-scooter use in bad weather
+5. Incentivize the parking of e-scooters in areas where they will be more likely to be rented. Ex.: More likely to rent at the bottom of a hill to go up than the other way around.
