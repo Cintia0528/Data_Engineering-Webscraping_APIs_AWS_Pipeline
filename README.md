@@ -15,7 +15,7 @@ GANS is a new e-scooter rental company aiming to operate in cities across German
 
 ## Deliverables
 Overview article on **Medium** found [here](https://medium.com/@ubp0528/what-goes-into-e-scooter-deployment-a-data-engineering-story-390a2dbcb077) that succintly summarizes the findings and the process.
-**Python code** with the clean notebooks are found [here](), and the code for creating a database in **SQL** is found [here](). 
+**Python code** with the clean notebooks are found [here](), and the code for creating a database in **SQL** is found [here](https://drive.google.com/file/d/1KwHx9qjUA2MKKZsPvTDS6NrKoIoTL-C8/view?usp=drive_link). 
 
 ## Skills & Tools
 1. Webscraping
